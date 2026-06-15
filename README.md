@@ -31,6 +31,23 @@ The dataset includes:
 - Sales Metrics
 - Customer Ordering Data
 ## 📊 Dashboard Preview
+# 🍕 Pizza Sales Performance Dashboard – Power BI
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+## Power BI File
+
+[Download Pizza Dashboard](./Pizza.pbix)
+
+## Dataset
+
+[pizza_sales.csv](./pizza_sales.csv)
+
+## SQL Queries
+
+[Query.sql](./Query.sql)
 
 <img src="./assets/dashboard-preview.png" width="100%" alt="Pizza Sales Dashboard">
 
