@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Performance Dashboard – Power BI
+**# 🍕 Pizza Sales Performance Dashboard – Power BI**
 
 ## 📌 Project Overview
 This project is an interactive **Pizza Sales Performance Dashboard** developed using **Power BI** to analyze sales performance, revenue trends, customer ordering behavior, and product insights.
@@ -45,17 +45,19 @@ The dataset includes:
 | Avg Pizza Per Order | 2.30 |
 
 ## 📌 Dashboard Insights
-### Revenue Analysis
-✅ Highest Revenue Pizza → **Barbecue Chicken Pizza**  
-✅ Lowest Revenue Pizza → **Green Garden Pizza**
-### Order Analysis
-✅ Most Ordered Pizza → **Pepperoni Pizza**  
-✅ Lowest Ordered Pizza → **Brie Carre Pizza**
-### Trend Analysis
-✅ Monthly Revenue Trend  
-✅ Orders by Day of Week  
-✅ Category Distribution  
-✅ Pizza Size Distribution  
+      **### Revenue Analysis**
+          ✅ Highest Revenue Pizza → **Barbecue Chicken Pizza**  
+          ✅ Lowest Revenue Pizza → **Green Garden Pizza**
+          
+    **  ### Order Analysis**
+          ✅ Most Ordered Pizza → **Pepperoni Pizza**  
+          ✅ Lowest Ordered Pizza → **Brie Carre Pizza**
+          
+      **### Trend Analysis**
+          ✅ Monthly Revenue Trend  
+          ✅ Orders by Day of Week  
+          ✅ Category Distribution  
+          ✅ Pizza Size Distribution  
 
 ## 📊 Dashboard Features
 - Interactive Filters
