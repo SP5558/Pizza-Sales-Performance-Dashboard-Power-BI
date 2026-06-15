@@ -31,9 +31,6 @@ The dataset includes:
 - Sales Metrics
 - Customer Ordering Data
 ## 📊 Dashboard Preview
-# 🍕 Pizza Sales Performance Dashboard – Power BI
-
-## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
 
@@ -49,7 +46,6 @@ The dataset includes:
 
 [Query.sql](./Query.sql)
 
-<img src="./assets/dashboard-preview.png" width="100%" alt="Pizza Sales Dashboard">
 
 ## 📈 KPI Summary
 
