@@ -30,10 +30,8 @@ The dataset includes:
 - Pizza Sizes
 - Sales Metrics
 - Customer Ordering Data
-
-# 📊 Dashboard Preview
-
-<img src="assets/dashboard-preview.png" width="100%" alt="Pizza Sales Dashboard">
+## 📊 Dashboard Preview
+<img src="./assets/Dahboard(1).png" width="100%" alt="Pizza Sales Dashboard">
 
 ## 📈 KPI Summary
 
