@@ -34,19 +34,6 @@ The dataset includes:
 
 ![Dashboard](Dashboard.png)
 
-## Power BI File
-
-[Download Pizza Dashboard](./Pizza.pbix)
-
-## Dataset
-
-[pizza_sales.csv](./pizza_sales.csv)
-
-## SQL Queries
-
-[Query.sql](./Query.sql)
-
-
 ## 📈 KPI Summary
 
 | KPI | Value |
