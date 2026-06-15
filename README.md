@@ -80,14 +80,6 @@ Pizza-Sales-Performance-Dashboard/
     └── dashboard-preview.png
 ```
 
-## 🚀 How to Use
-1. Clone or Download repository
-```bash
-git clone https://github.com/yourusername/Pizza-Sales-Performance-Dashboard.git
-2. Open `Pizza.pbix`
-3. Load dataset if required
-4. Explore filters and dashboard visuals
-
 ## 📌 Business Questions Solved
 - What is total revenue?
 - Which pizza generated highest revenue?
